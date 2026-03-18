@@ -1,0 +1,20 @@
+{
+    "name": "qubi/omni-console-php",
+    "description": "Universal Terminal UI Wrapper for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Qubi Software",
+            "email": "contact@qubisoftware.net"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "OmniConsole\\PHP\\": ""
+        }
+    }
+}

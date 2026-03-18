@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>OmniConsole.DotNet</AssemblyName>
+    <PackageId>OmniConsole.DotNet</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Qubi Software</Authors>
+    <Description>Universal Terminal UI Wrapper for .NET Core</Description>
+  </PropertyGroup>
+
+</Project>

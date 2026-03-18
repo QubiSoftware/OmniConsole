@@ -1,0 +1,14 @@
+{
+  "project": "OmniConsole Protocol",
+  "version": "1.0.0",
+  "request_format": {
+    "command": "string",
+    "arguments": "array (optional)",
+    "timestamp": "iso-8601"
+  },
+  "response_format": {
+    "output": "string (plain text or html)",
+    "status": "success | error",
+    "session_id": "string (optional)"
+  }
+}

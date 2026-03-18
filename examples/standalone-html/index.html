@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <h1>OmniConsole Standalone Demo</h1>
+    
+    <omni-console theme="dracula"></omni-console>
+
+    <script src="../../core/omni-console.js"></script>
+    <script>
+        // Optional: Customizing local commands via JS
+        const terminal = document.querySelector('omni-console');
+        terminal.localCommands['secret'] = "You found the hidden Easter Egg! 🥚";
+    </script>
+</body>
+</html>
