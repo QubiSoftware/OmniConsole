@@ -110,6 +110,5 @@ Contributions are welcome! If you want to add a wrapper for a new language (Node
 
 **Qubi Software**
 
-Founder: Muhammet Ensar Beyazkılınç & Ömer Faruk Beyazkılınç
 GitHub: `@QubiSoftware`  
 Website: https://qubisoftware.net
